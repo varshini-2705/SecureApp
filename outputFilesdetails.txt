@@ -1,0 +1,5 @@
+      
+      
+     1)    📃 Find_pii Script is inside the Properties Folder .
+     2)    📃 Admin Uploaded Artifacts which holds the files being uploaded , gets created inside the WebApps folder of Tomcat 
+     3)    📃 PII_scan result gets generated inside the Temp Folder of TomCat folder .

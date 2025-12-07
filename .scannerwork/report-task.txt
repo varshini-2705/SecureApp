@@ -1,0 +1,6 @@
+projectKey=SecureWebApp
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=SecureWebApp
+ceTaskId=4b2dd482-9900-42ae-8c8c-9da8ae88e798
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4b2dd482-9900-42ae-8c8c-9da8ae88e798
