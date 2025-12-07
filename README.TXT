@@ -1,4 +1,4 @@
-🧩 Java Web Application – Part 1  🖇️ https://writer.zoho.in/writer/open/h7tync55265691254494cad8b1c031ba30dc8
+🧩 Java Web Application 
 📘 Overview
 
 This application is a Java-based web platform designed to demonstrate secure authentication, role-based access control (RBAC), session management, file handling, and integration with SonarQube for static code analysis.
